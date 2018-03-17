@@ -1,2 +1,2 @@
-# Z
-# PRO
+# Singleton
+# Dekorator
